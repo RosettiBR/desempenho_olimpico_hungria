@@ -1,8 +1,10 @@
 📊 Análise do Desempenho Olímpico da Hungria
+
 📜 Sobre o Projeto
 Este projeto consiste em um dashboard interativo desenvolvido para analisar o desempenho histórico da Hungria nos Jogos Olímpicos. A partir de uma base de dados pública, foi possível criar visualizações que exploram a performance nacional ao longo do tempo, as modalidades de maior destaque e o perfil dos atletas que representaram o país.
 
 O objetivo principal era ir além dos números brutos, identificando "eras douradas", compreendendo as forças esportivas do país e traçando o perfil dos seus medalhistas.
+
 
 🎯 Desafio Proposto
 O dashboard foi construído para responder a três grandes desafios analíticos:
@@ -12,6 +14,7 @@ Visão Geral da Performance Nacional: Apresentar um panorama completo do desempe
 Análise Temporal e por Modalidade: Investigar a evolução do país ao longo das edições, identificar os esportes de maior sucesso e analisar a participação por gênero.
 
 Perfil dos Atletas Nacionais: Traçar o perfil dos medalhistas húngaros, analisando a distribuição de idade, características físicas médias e identificando os maiores atletas da história do país.
+
 
 💡 Principais Insights Encontrados
 A análise revelou padrões interessantes sobre a jornada olímpica da Hungria:
@@ -28,6 +31,7 @@ Atletas Lendários: A Hungria produziu atletas icônicos, com o esgrimista Alad�
 
 Perfil dos Medalhistas: A maior concentração de medalhas ocorre com atletas na faixa dos 20 e poucos anos, especialmente entre 23 e 28 anos.
 
+
 📈 Visualizações no Dashboard
 Para apresentar os dados de forma clara e objetiva, foram utilizados diversos tipos de gráficos, incluindo:
 
@@ -41,13 +45,16 @@ Gráfico de Pizza: Para comparar a participação em Jogos de Verão vs. Inverno
 
 Tabelas e Rankings: Para listar os atletas com mais medalhas e detalhar o desempenho por esporte.
 
+
 🛠️ Tecnologias Utilizadas
 Ferramenta de BI: Looker
 
 Tratamento de Dados: Google Sheets
 
+
 💾 Fonte dos Dados
 Os dados foram extraídos de uma base de dados pública sobre os Jogos Olímpicos, contendo informações históricas desde a primeira edição em 1896.
+
 
 🔗 Acesso ao Projeto
 O dashboard interativo pode ser acessado através do seguinte link:
